@@ -34,3 +34,10 @@ This course is licensed under the [MIT License](LICENSE). You are free to use, m
 ## 🌟 About Me
 
 Hi there! I'm **Aakib Khan**. I’m an IT professional Data engineer and passionate Student on a mission to share knowledge and make working with data enjoyable and engaging!
+
+Script files:
+ - DDL commands
+ - DML commands
+ - Basic Query Transformations
+ - Group BY
+ - Aggregate functions
