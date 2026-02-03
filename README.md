@@ -41,3 +41,4 @@ Script files:
  - Basic Query Transformations
  - Group BY
  - Aggregate functions
+ - Joins
