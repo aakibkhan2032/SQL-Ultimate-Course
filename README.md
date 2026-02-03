@@ -43,3 +43,4 @@ Script files:
  - Aggregate functions
  - Joins
  - Sets
+ - String Functions
