@@ -42,3 +42,4 @@ Script files:
  - Group BY
  - Aggregate functions
  - Joins
+ - Sets
