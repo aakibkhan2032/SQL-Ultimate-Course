@@ -44,3 +44,4 @@ Script files:
  - Joins
  - Sets
  - String Functions
+ - Number Functions
