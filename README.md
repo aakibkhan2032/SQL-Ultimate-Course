@@ -45,3 +45,4 @@ Script files:
  - Sets
  - String Functions
  - Number Functions
+ - Date Time Functions
