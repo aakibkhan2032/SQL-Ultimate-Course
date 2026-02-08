@@ -46,3 +46,4 @@ Script files:
  - String Functions
  - Number Functions
  - Date Time Functions
+ - Date Time Formats
