@@ -49,3 +49,4 @@ Script files:
  - Date Time Formats
  - Null Functions
  - Cas Statements
+ - Aggregate Functions
