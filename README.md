@@ -50,3 +50,4 @@ Script files:
  - Null Functions
  - Cas Statements
  - Aggregate Functions
+ - Window Functions Basics
