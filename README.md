@@ -51,3 +51,4 @@ Script files:
  - Cas Statements
  - Aggregate Functions
  - Window Functions Basics
+ - Window Aggregations
