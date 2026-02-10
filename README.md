@@ -54,3 +54,4 @@ Script files:
  - Window Aggregations
  - Window Ranking
  - Window Value Function
+ - Subqueries
