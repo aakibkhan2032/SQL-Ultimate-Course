@@ -53,4 +53,4 @@ Script files:
  - Window Functions Basics
  - Window Aggregations
  - Window Ranking
- - Window Value Functions
+ - Window Value Function
