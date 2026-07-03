@@ -55,3 +55,4 @@ Script files:
  - Window Ranking
  - Window Value Function
  - Subqueries
+ - CTEs
